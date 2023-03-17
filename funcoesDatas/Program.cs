@@ -57,16 +57,16 @@ namespace livrocsharp;
             // tentativa (TryParse) de conversão de dataTexto
             // caso dê certo a saída OUT será em dataTextoConvertida
             if (DateTime.TryParse(dataTexto, out dataTextoConvertida))
-                WriteLine("Data com conversão aceita");
+                WriteLine("Data com conversão aceita --01");
             else
-                WriteLine("Erro na conversão da data");
+                WriteLine("Erro na conversão da data --01");
 
             string dataTextoErrada = "15/metade do ano/2021";
             DateTime dataTextoErradaConvertida;
             if (DateTime.TryParse(dataTextoErrada, out dataTextoErradaConvertida))
-                WriteLine("Data com conversão aceita");
+                WriteLine("Data com conversão aceita --02");
             else
-                WriteLine("Erro na conversão da data");
+                WriteLine("Erro na conversão da data --02");
 
             // uso de Datas em Objetos
             var pedido = new Pedido
