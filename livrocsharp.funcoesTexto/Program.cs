@@ -8,7 +8,7 @@ namespace livrocsharp;
     {
         static void Main()
         {
-            WriteLine("------ Funções de Textos -------");
+        WriteLine("------ Funções de Textos -------");
 
             string empresa = "                       Microsoft Corporation                              ";
             WriteLine("TRIM - retira os espaços em branco antes e após a expressão");
