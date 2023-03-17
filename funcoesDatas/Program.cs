@@ -82,7 +82,7 @@ namespace livrocsharp;
                 $"vencto: {pedido.DtVencimento():dd/MMM/yyyy} - " +
                 $"dias atraso: {pedido.DiasAtraso().TotalDays} - " +
                 $"valor: {pedido.Valor:n2} - " +
-                $"multa: {pedido.Multa:n2}");
+                $"multa: {pedido.Multa:n2}"); // o que significa esse :n2 ???
         }
     }
     public class Pedido

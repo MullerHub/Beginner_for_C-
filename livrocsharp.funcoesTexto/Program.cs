@@ -10,7 +10,7 @@ namespace livrocsharp;
         {
         WriteLine("------ Funções de Textos -------");
 
-            string empresa = "                       Microsoft Corporation                              ";
+        string empresa = "                       Microsoft Corporation                              ";
             WriteLine("TRIM - retira os espaços em branco antes e após a expressão");
             WriteLine($"Nome sem espaços: {empresa.Trim()}");
 
