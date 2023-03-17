@@ -1,0 +1,15 @@
+D:\Windos_Default\Programacao\Desenvolvendo\C#\livrocsharp.funcoesTexto\obj\Debug\net7.0\livrocsharp.funcoesTexto.csproj.AssemblyReference.cache
+D:\Windos_Default\Programacao\Desenvolvendo\C#\livrocsharp.funcoesTexto\obj\Debug\net7.0\livrocsharp.funcoesTexto.GeneratedMSBuildEditorConfig.editorconfig
+D:\Windos_Default\Programacao\Desenvolvendo\C#\livrocsharp.funcoesTexto\obj\Debug\net7.0\livrocsharp.funcoesTexto.AssemblyInfoInputs.cache
+D:\Windos_Default\Programacao\Desenvolvendo\C#\livrocsharp.funcoesTexto\obj\Debug\net7.0\livrocsharp.funcoesTexto.AssemblyInfo.cs
+D:\Windos_Default\Programacao\Desenvolvendo\C#\livrocsharp.funcoesTexto\obj\Debug\net7.0\livrocsharp.funcoesTexto.csproj.CoreCompileInputs.cache
+D:\Windos_Default\Programacao\Desenvolvendo\C#\livrocsharp.funcoesTexto\bin\Debug\net7.0\livrocsharp.funcoesTexto.exe
+D:\Windos_Default\Programacao\Desenvolvendo\C#\livrocsharp.funcoesTexto\bin\Debug\net7.0\livrocsharp.funcoesTexto.deps.json
+D:\Windos_Default\Programacao\Desenvolvendo\C#\livrocsharp.funcoesTexto\bin\Debug\net7.0\livrocsharp.funcoesTexto.runtimeconfig.json
+D:\Windos_Default\Programacao\Desenvolvendo\C#\livrocsharp.funcoesTexto\bin\Debug\net7.0\livrocsharp.funcoesTexto.dll
+D:\Windos_Default\Programacao\Desenvolvendo\C#\livrocsharp.funcoesTexto\bin\Debug\net7.0\livrocsharp.funcoesTexto.pdb
+D:\Windos_Default\Programacao\Desenvolvendo\C#\livrocsharp.funcoesTexto\obj\Debug\net7.0\livrocsharp.funcoesTexto.dll
+D:\Windos_Default\Programacao\Desenvolvendo\C#\livrocsharp.funcoesTexto\obj\Debug\net7.0\refint\livrocsharp.funcoesTexto.dll
+D:\Windos_Default\Programacao\Desenvolvendo\C#\livrocsharp.funcoesTexto\obj\Debug\net7.0\livrocsharp.funcoesTexto.pdb
+D:\Windos_Default\Programacao\Desenvolvendo\C#\livrocsharp.funcoesTexto\obj\Debug\net7.0\livrocsharp.funcoesTexto.genruntimeconfig.cache
+D:\Windos_Default\Programacao\Desenvolvendo\C#\livrocsharp.funcoesTexto\obj\Debug\net7.0\ref\livrocsharp.funcoesTexto.dll

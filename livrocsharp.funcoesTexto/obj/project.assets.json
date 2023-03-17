@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Windos_Default\\Programacao\\Desenvolvendo\\TestConsoleApp\\TestConsoleApp.csproj",
-      "projectName": "TestConsoleApp",
-      "projectPath": "D:\\Windos_Default\\Programacao\\Desenvolvendo\\TestConsoleApp\\TestConsoleApp.csproj",
+      "projectUniqueName": "D:\\Windos_Default\\Programacao\\Desenvolvendo\\C#\\livrocsharp.funcoesTexto\\livrocsharp.funcoesTexto.csproj",
+      "projectName": "livrocsharp.funcoesTexto",
+      "projectPath": "D:\\Windos_Default\\Programacao\\Desenvolvendo\\C#\\livrocsharp.funcoesTexto\\livrocsharp.funcoesTexto.csproj",
       "packagesPath": "C:\\Users\\Murilo\\.nuget\\packages\\",
-      "outputPath": "D:\\Windos_Default\\Programacao\\Desenvolvendo\\TestConsoleApp\\obj\\",
+      "outputPath": "D:\\Windos_Default\\Programacao\\Desenvolvendo\\C#\\livrocsharp.funcoesTexto\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -2,15 +2,15 @@
 using System;
 using System.Linq;
 
-namespace livrocsharp
-{
+namespace livrocsharp;
+
     class funcoesTexto
     {
         static void Main()
         {
             WriteLine("------ Funções de Textos -------");
 
-            string empresa = " Microsoft Corporation   ";
+            string empresa = "                       Microsoft Corporation                              ";
             WriteLine("TRIM - retira os espaços em branco antes e após a expressão");
             WriteLine($"Nome sem espaços: {empresa.Trim()}");
 
@@ -76,6 +76,7 @@ namespace livrocsharp
 
             WriteLine("Substring é usado para extrair parte do texto");
             WriteLine(NivelLivro.Substring(5, 14));
+            
             // array com frutas
             string[] cesta = { "5 Laranjas", "10 Goiabas vermelhas", "5 Pêssegos doces", "5 Bananas" };
             int qtde = 0;
@@ -106,4 +107,3 @@ namespace livrocsharp
             }
         }
     }
-}

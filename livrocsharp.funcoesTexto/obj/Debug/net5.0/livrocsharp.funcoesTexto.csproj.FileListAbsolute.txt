@@ -1,0 +1,5 @@
+D:\Windos_Default\Programacao\Desenvolvendo\C#\livrocsharp.funcoesTexto\obj\Debug\net5.0\livrocsharp.funcoesTexto.csproj.AssemblyReference.cache
+D:\Windos_Default\Programacao\Desenvolvendo\C#\livrocsharp.funcoesTexto\obj\Debug\net5.0\livrocsharp.funcoesTexto.GeneratedMSBuildEditorConfig.editorconfig
+D:\Windos_Default\Programacao\Desenvolvendo\C#\livrocsharp.funcoesTexto\obj\Debug\net5.0\livrocsharp.funcoesTexto.AssemblyInfoInputs.cache
+D:\Windos_Default\Programacao\Desenvolvendo\C#\livrocsharp.funcoesTexto\obj\Debug\net5.0\livrocsharp.funcoesTexto.AssemblyInfo.cs
+D:\Windos_Default\Programacao\Desenvolvendo\C#\livrocsharp.funcoesTexto\obj\Debug\net5.0\livrocsharp.funcoesTexto.csproj.CoreCompileInputs.cache
