@@ -1,0 +1,15 @@
+D:\Windos_Default\Programacao\Desenvolvendo\C#\funcoesDatas\obj\Debug\net7.0\funcoesDatas.csproj.AssemblyReference.cache
+D:\Windos_Default\Programacao\Desenvolvendo\C#\funcoesDatas\obj\Debug\net7.0\funcoesDatas.GeneratedMSBuildEditorConfig.editorconfig
+D:\Windos_Default\Programacao\Desenvolvendo\C#\funcoesDatas\obj\Debug\net7.0\funcoesDatas.AssemblyInfoInputs.cache
+D:\Windos_Default\Programacao\Desenvolvendo\C#\funcoesDatas\obj\Debug\net7.0\funcoesDatas.AssemblyInfo.cs
+D:\Windos_Default\Programacao\Desenvolvendo\C#\funcoesDatas\obj\Debug\net7.0\funcoesDatas.csproj.CoreCompileInputs.cache
+D:\Windos_Default\Programacao\Desenvolvendo\C#\funcoesDatas\bin\Debug\net7.0\funcoesDatas.exe
+D:\Windos_Default\Programacao\Desenvolvendo\C#\funcoesDatas\bin\Debug\net7.0\funcoesDatas.deps.json
+D:\Windos_Default\Programacao\Desenvolvendo\C#\funcoesDatas\bin\Debug\net7.0\funcoesDatas.runtimeconfig.json
+D:\Windos_Default\Programacao\Desenvolvendo\C#\funcoesDatas\bin\Debug\net7.0\funcoesDatas.dll
+D:\Windos_Default\Programacao\Desenvolvendo\C#\funcoesDatas\bin\Debug\net7.0\funcoesDatas.pdb
+D:\Windos_Default\Programacao\Desenvolvendo\C#\funcoesDatas\obj\Debug\net7.0\funcoesDatas.dll
+D:\Windos_Default\Programacao\Desenvolvendo\C#\funcoesDatas\obj\Debug\net7.0\refint\funcoesDatas.dll
+D:\Windos_Default\Programacao\Desenvolvendo\C#\funcoesDatas\obj\Debug\net7.0\funcoesDatas.pdb
+D:\Windos_Default\Programacao\Desenvolvendo\C#\funcoesDatas\obj\Debug\net7.0\funcoesDatas.genruntimeconfig.cache
+D:\Windos_Default\Programacao\Desenvolvendo\C#\funcoesDatas\obj\Debug\net7.0\ref\funcoesDatas.dll
