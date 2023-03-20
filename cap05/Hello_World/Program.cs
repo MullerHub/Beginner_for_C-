@@ -5,40 +5,43 @@ namespace MinhaPrimeiraClasse
     {
         static void Main(string[] args)
         {
-    //Declaramos uma variavel do tipo string (texto)
-            String Digitado = new String("");
-            //Solicitamos que o usuario digite alguma  coisa e
-            //armazene na variavel criada
-
-    //Criamos o objeto Pedido herdado da clase InteracaoUsuario  
-            InteracaoUsuario Pedido = new InteracaoUsuario();
-
+    //Criamos o objeto Pedido herdado da clase InteracaoUsuario     
+          InteracaoUsuario Pedido = new InteracaoUsuario();
+            
     //Invocamos os metodos do objeto Pedido herdado da classe mãe InteracaoUsuario
-            var Digitado = Pedido.SolicitarDigitacao();
-            Pedido.MostrarDigitacao(Digitado);
+          Pedido.SolicitarDigitacao();
+           Pedido.MostrarDigitacao();
+            //Recupero pelo metodo GET o valor da mensgaem digitada para futura manipulação
+            var Digitado = Pedido.Mensagem;
+            //Escrevo a nova mensagem colocando toda a mensagem em Maiuscula
+            Console.WriteLine("Nova Digitação sem Espaços -> " + Digitado.ToUpper());
         }
-    }
-
-
+    };
+    
     //Criamos a Classe InteracaoUsuario com dois metodos principais
     //Método que solicita a digitação de algo no terminal
     //Método que mostra o que foi digitado
-
     class InteracaoUsuario
         {
-            public string SolicitarDigitacao()
+           private string _MensagemDigitada;
+          public string Mensagem
             {
-                return Console.ReadLine();
+              get 
+              {
+                return _MensagemDigitada();
+              }
+              set 
+              {
+                _MensagemDigitada = value;
+              }
             }
-            public void MostrarDigitacao(string Digitado)
+            public void SolicitarDigitacao()
             {
-                Console.WriteLine(Digitado);
-
-            /*
-                Digitado = Console.ReadLine();
-                //Mostramos o que foi digitado             
-                Console.WriteLine(Digitado); 
-            */
-          }
+                _MensagemDigitada = Console.ReadLine();
+            }
+            public void MostrarDigitacao()
+            {
+              Console.WriteLine(_MensagemDigitada);
+            }
     }
 }
