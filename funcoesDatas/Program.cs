@@ -86,6 +86,7 @@ namespace livrocsharp;
         // o que significa esse :n2 ???
         }
     }
+
     public class Pedido
     {
         public int PedidoID { get; set; }
