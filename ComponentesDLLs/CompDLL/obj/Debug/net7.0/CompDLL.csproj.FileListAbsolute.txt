@@ -1,0 +1,12 @@
+D:\Windos_Default\Programacao\Desenvolvendo\C#\ComponentesDLLs\CompDLL\bin\Debug\net7.0\CompDLL.deps.json
+D:\Windos_Default\Programacao\Desenvolvendo\C#\ComponentesDLLs\CompDLL\bin\Debug\net7.0\CompDLL.dll
+D:\Windos_Default\Programacao\Desenvolvendo\C#\ComponentesDLLs\CompDLL\bin\Debug\net7.0\CompDLL.pdb
+D:\Windos_Default\Programacao\Desenvolvendo\C#\ComponentesDLLs\CompDLL\obj\Debug\net7.0\CompDLL.csproj.AssemblyReference.cache
+D:\Windos_Default\Programacao\Desenvolvendo\C#\ComponentesDLLs\CompDLL\obj\Debug\net7.0\CompDLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Windos_Default\Programacao\Desenvolvendo\C#\ComponentesDLLs\CompDLL\obj\Debug\net7.0\CompDLL.AssemblyInfoInputs.cache
+D:\Windos_Default\Programacao\Desenvolvendo\C#\ComponentesDLLs\CompDLL\obj\Debug\net7.0\CompDLL.AssemblyInfo.cs
+D:\Windos_Default\Programacao\Desenvolvendo\C#\ComponentesDLLs\CompDLL\obj\Debug\net7.0\CompDLL.csproj.CoreCompileInputs.cache
+D:\Windos_Default\Programacao\Desenvolvendo\C#\ComponentesDLLs\CompDLL\obj\Debug\net7.0\CompDLL.dll
+D:\Windos_Default\Programacao\Desenvolvendo\C#\ComponentesDLLs\CompDLL\obj\Debug\net7.0\refint\CompDLL.dll
+D:\Windos_Default\Programacao\Desenvolvendo\C#\ComponentesDLLs\CompDLL\obj\Debug\net7.0\CompDLL.pdb
+D:\Windos_Default\Programacao\Desenvolvendo\C#\ComponentesDLLs\CompDLL\obj\Debug\net7.0\ref\CompDLL.dll

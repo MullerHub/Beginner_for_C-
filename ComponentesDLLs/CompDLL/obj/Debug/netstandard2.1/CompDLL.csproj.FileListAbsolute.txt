@@ -1,0 +1,5 @@
+D:\Windos_Default\Programacao\Desenvolvendo\C#\ComponentesDLLs\CompDLL\obj\Debug\netstandard2.1\CompDLL.csproj.AssemblyReference.cache
+D:\Windos_Default\Programacao\Desenvolvendo\C#\ComponentesDLLs\CompDLL\obj\Debug\netstandard2.1\CompDLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Windos_Default\Programacao\Desenvolvendo\C#\ComponentesDLLs\CompDLL\obj\Debug\netstandard2.1\CompDLL.AssemblyInfoInputs.cache
+D:\Windos_Default\Programacao\Desenvolvendo\C#\ComponentesDLLs\CompDLL\obj\Debug\netstandard2.1\CompDLL.AssemblyInfo.cs
+D:\Windos_Default\Programacao\Desenvolvendo\C#\ComponentesDLLs\CompDLL\obj\Debug\netstandard2.1\CompDLL.csproj.CoreCompileInputs.cache

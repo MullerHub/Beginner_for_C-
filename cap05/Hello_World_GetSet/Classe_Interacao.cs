@@ -15,6 +15,7 @@ namespace MinhaClasseUsuario
             { _MensagemDigitada = value; }
         }
         public void SolicitarDigitacao()
+
         {
             _MensagemDigitada =  Console.ReadLine();
         }
