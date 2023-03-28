@@ -6,76 +6,58 @@ namespace Softblue
   {
     static void Main()
     {
-      Console.WriteLine("Simulador de Mega-Sena");
-      Console.WriteLine("----------------------");
+      // Cadastro dos produtos
+      Produto p1 = new Produto("Feijão", 2.5, 4, 10, 2020);
+      Produto p2 = new Produto("Café", 1, 1, 1, 2022);
+      Produto p3 = new Produto("Beterraba", 0.9, 12, 11, 2017);
 
-      // Solicita os números.
-      // Este algoritmo não faz validação de intervalos de números ou se os números digitados são válidos.
-      Console.Write("Palpite 1: ");
-      int n1 = int.Parse(Console.ReadLine());
-      Console.Write("Palpite 2: ");
-      int n2 = int.Parse(Console.ReadLine());
-      Console.Write("Palpite 3: ");
-      int n3 = int.Parse(Console.ReadLine());
-      Console.Write("Palpite 4: ");
-      int n4 = int.Parse(Console.ReadLine());
-      Console.Write("Palpite 5: ");
-      int n5 = int.Parse(Console.ReadLine());
-      Console.Write("Palpite 6: ");
-      int n6 = int.Parse(Console.ReadLine());
+      // Exibição dos dados formatados
+      Console.WriteLine("{0}) {1,12} {2:000000.00} {3}", 1, p1.Nome, p1.Peso, p1.FormatData);
+      Console.WriteLine("{0}) {1,12} {2:000000.00} {3}", 2, p2.Nome, p2.Peso, p2.FormatData);
+      Console.WriteLine("{0}) {1,12} {2:000000.00} {3}", 3, p3.Nome, p3.Peso, p3.FormatData);
+    }
+  }
 
-      Console.WriteLine();
+  class Produto
+  {
+    // Nome do produto
+    private string nome;
 
-      // Cria um gerador de números randômicos.
-      Random random = new Random();
+    // Peso do produto
+    private double peso;
 
-      // Sorteia 6 números. O método Next() é chamado com 1,61 para gerar números entre 1 e 60.
-      int s1 = random.Next(1, 61);
-      int s2 = random.Next(1, 61);
-      int s3 = random.Next(1, 61);
-      int s4 = random.Next(1, 61);
-      int s5 = random.Next(1, 61);
-      int s6 = random.Next(1, 61);
+    // Data de validade
+    private DateTime dataValidade;
 
-      // Mostra os números sorteados.
-      Console.WriteLine("Números sorteados: {0}, {1}, {2}, {3}, {4}, {5}", s1, s2, s3, s4, s5, s6);
+    // Construtor. Recebe nome, peso e data de validade
+    public Produto(string nome, double peso, int dia, int mes, int ano)
+    {
+      this.nome = nome;
+      this.peso = peso;
+      this.dataValidade = DateTime.Parse(dia + "/" + mes + "/" + ano);
+    }
 
-      // Variável para computar os acertos.
-      int acertos = 0;
+    public String Nome
+    {
+      get { return nome; }
+    }
 
-      // Processa os acertos, comparando cada número sorteado com cada palpite do usuário.
-      if (s1 == n1 || s1 == n2 || s1 == n3 || s1 == n4 || s1 == n5 || s1 == n6)
+    public double Peso
+    {
+      get { return peso; }
+    }
+
+    public DateTime DataValidade
+    {
+      get { return dataValidade; }
+    }
+
+    public string FormatData
+    {
+      get
       {
-        acertos++;
+        return dataValidade.ToString("d");
       }
-
-      if (s2 == n1 || s2 == n2 || s2 == n3 || s2 == n4 || s2 == n5 || s2 == n6)
-      {
-        acertos++;
-      }
-
-      if (s3 == n1 || s3 == n2 || s3 == n3 || s3 == n4 || s3 == n5 || s3 == n6)
-      {
-        acertos++;
-      }
-
-      if (s4 == n1 || s4 == n2 || s4 == n3 || s4 == n4 || s4 == n5 || s4 == n6)
-      {
-        acertos++;
-      }
-
-      if (s5 == n1 || s5 == n2 || s5 == n3 || s5 == n4 || s5 == n5 || s5 == n6)
-      {
-        acertos++;
-      }
-
-      if (s6 == n1 || s6 == n2 || s6 == n3 || s6 == n4 || s6 == n5 || s6 == n6)
-      {
-        acertos++;
-      }
-
-      // Mostra o número de acertos.
-      Console.WriteLine("Você acertou {0} número(s)!", acertos);
     }
   }
 }
