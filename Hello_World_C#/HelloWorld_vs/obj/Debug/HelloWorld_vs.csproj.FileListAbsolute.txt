@@ -1,7 +1,0 @@
-D:\Windos_Default\Programacao\Desenvolvendo\C#\HelloWorld_vs\obj\Debug\HelloWorld_vs.csproj.AssemblyReference.cache
-D:\Windos_Default\Programacao\Desenvolvendo\C#\HelloWorld_vs\obj\Debug\HelloWorld_vs.csproj.CoreCompileInputs.cache
-D:\Windos_Default\Programacao\Desenvolvendo\C#\HelloWorld_vs\bin\Debug\HelloWorld_vs.exe.config
-D:\Windos_Default\Programacao\Desenvolvendo\C#\HelloWorld_vs\bin\Debug\HelloWorld_vs.exe
-D:\Windos_Default\Programacao\Desenvolvendo\C#\HelloWorld_vs\bin\Debug\HelloWorld_vs.pdb
-D:\Windos_Default\Programacao\Desenvolvendo\C#\HelloWorld_vs\obj\Debug\HelloWorld_vs.exe
-D:\Windos_Default\Programacao\Desenvolvendo\C#\HelloWorld_vs\obj\Debug\HelloWorld_vs.pdb
