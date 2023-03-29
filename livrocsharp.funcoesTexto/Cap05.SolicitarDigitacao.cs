@@ -8,6 +8,7 @@ namespace MinhaPrimeiraClasse
       //Criamos o objeto Pedido herdado da clase InteracaoUsuario     
       InteracaoUsuario Pedido = new InteracaoUsuario();
 
+
       //Invocamos os metodos do objeto Pedido herdado da classe mãe InteracaoUsuario
       Pedido.SolicitarDigitacao();
       Pedido.MostrarDigitacao();
